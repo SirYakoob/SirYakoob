@@ -1,0 +1,10 @@
+
+Helmet: Amphibian = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Hells Angel = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Foxtrot = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Grunt = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Jarhead = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Locust = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Regulator = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Torso: Glutis = pants: ["Glutis"]    - it should always go together
+Mouth: Pout = helmet: ["Hells Angel"]
