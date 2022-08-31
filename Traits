@@ -8,3 +8,10 @@ Helmet: Locust = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick",
 Helmet: Regulator = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick", "Snake Tongue"]
 Torso: Glutis = pants: ["Glutis"]    - it should always go together
 Mouth: Pout = helmet: ["Hells Angel"]
+
+JUST ADDED:
+Helmet: Howler = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Knuckle-Head = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Backstabber = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Urchin = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
+Helmet: Warlock = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
