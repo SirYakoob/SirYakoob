@@ -16,3 +16,7 @@ Helmet: Backstabber = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothp
 Helmet: Urchin = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
 Helmet: Warlock = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"]
 Helmet: Empress = mouth: ["Cigar", "Vape", "Lollipop", "Bubble Gum", "Toothpick"] - potential issue as well 
+
+
+NEW ADDED:
+Helmet: Esper = expression: ["3 Eyes"]
